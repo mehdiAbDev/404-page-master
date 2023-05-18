@@ -8,6 +8,7 @@ button {
     margin: 20px auto 60px 24px;
 }
 img {
+    justify-self: center;
     width: 70%;
 }
 .bottom {
