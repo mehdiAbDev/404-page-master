@@ -4,6 +4,7 @@ main {
     letter-spacing: -0.035em;
     display: flex;
     cursor: context-menu;
+    user-select: none;
 }
 .top {
     font-family: 'Inconsolata', monospace;
