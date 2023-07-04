@@ -3,6 +3,7 @@ main {
     overflow-x: hidden;
     letter-spacing: -0.035em;
     display: flex;
+    cursor: context-menu;
 }
 .top {
     font-family: 'Inconsolata', monospace;
@@ -29,6 +30,7 @@ main {
     font-weight: 700;
 }
 button {
+    cursor: pointer;
     background-color: #333333;
     color: #FFFFFF;
     border: none;
